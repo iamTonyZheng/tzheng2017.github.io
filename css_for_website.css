@@ -1,0 +1,38 @@
+
+head{
+	color: rgb(250,50,50);
+	font-family: 'Arima Madurai', cursive;
+	font-family: 'Pacifico', cursive;
+}
+
+body{
+	background-color: rgb(100,100,100);
+	text-align: center;
+}
+
+#button {
+	height: 200px;
+	background-color: rgb(200,100,100);
+}
+
+#header1 {
+	background-color: rgb(255,255,255);
+	color: rgb(250,50,50);
+	text-align: center;
+	}
+
+.footer1 {
+	background-color: rgb(255,255,0);
+}
+
+p 	{
+	color: (100,0,100);
+	font-size: 75%;
+	line-height: 0.3em; 
+	}
+
+a {
+	background-color: rgb(0,0,200);
+	padding: 25px;
+	margin: 50px;
+}
